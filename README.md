@@ -1,4 +1,4 @@
-# FirstProject
+# Poll Application
 
 Django version 1.11.6
 Python 3.6.3 
